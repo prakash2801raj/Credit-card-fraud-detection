@@ -16,7 +16,7 @@ The primary goal of this project is to detect fraudulent credit card transaction
 ### **Data Source**  
 The dataset for this project was obtained from Kaggle and includes data on transactions made by European credit card users over two days in 2013. It contains 284,808 rows and 31 attributes, of which 28 are numeric variables transformed using PCA (Principal Component Analysis) to maintain customer privacy. The remaining attributes are "Time" (elapsed time between the first and subsequent transactions), "Amount" (transaction amount), and "Class" (binary indicator where "1" represents a fraudulent transaction and "0" represents a legitimate one).
 
-**Dataset:** Kaggle Dataset
+**Dataset:** [Kaggle Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ### **Algorithms Used**  
 - K-Nearest Neighbors (KNN)
